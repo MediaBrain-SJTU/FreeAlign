@@ -1,0 +1,7 @@
+.vscode/
+build/
+dataset/
+visualize/
+opencood/logs
+*.pyc
+*.pth

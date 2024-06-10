@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File "opencood/vis_v2v4real.py", line 87, in <module>
+    object_bbxs1 = get_bbxs(cav1_yaml["vehicles"])
+  File "opencood/vis_v2v4real.py", line 73, in get_bbxs
+    all_boxes = np.concatenate(all_boxes)
+  File "<__array_function__ internals>", line 6, in concatenate
+ValueError: need at least one array to concatenate
