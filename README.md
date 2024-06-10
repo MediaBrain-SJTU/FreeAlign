@@ -39,4 +39,4 @@ You can modify the config.yaml in the CKPT_PATH to see the performance gap betwe
 
 ## Acknowlege
 
-This project is impossible without the code of [Coalign](https://github.com/yifanlu0227/CoAlign), [OpenCOOD](https://github.com/DerrickXuNu/OpenCOOD), [g2opy](https://github.com/uoip/g2opy) and [d3d](https://github.com/cmpute/d3d)!
+This project is impossible without the code of [CoAlign](https://github.com/yifanlu0227/CoAlign), [OpenCOOD](https://github.com/DerrickXuNu/OpenCOOD), [g2opy](https://github.com/uoip/g2opy) and [d3d](https://github.com/cmpute/d3d)!
