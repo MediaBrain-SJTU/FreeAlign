@@ -36,15 +36,6 @@ python opencood/tools/inference.py --model_dir $CKPT_PATH
 ```
 You can modify the config.yaml in the CKPT_PATH to see the performance gap between our method and previous methods. The key parameters include "gt_correct"(enable freealign) and noise_setting.
 
-## Citation
-```
-@article{lu2022robust,
-  title={Robust Collaborative 3D Object Detection in Presence of Pose Errors},
-  author={Lu, Yifan and Li, Quanhao and Liu, Baoan and Dianati, Mehrdad and Feng, Chen and Chen, Siheng and Wang, Yanfeng},
-  journal={arXiv preprint arXiv:2211.07214},
-  year={2022}
-}
-```
 
 ## Acknowlege
 
