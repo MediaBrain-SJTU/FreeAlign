@@ -29,7 +29,7 @@ Originally DAIR-V2X only annotates 3D boxes within the range of camera's view in
 **Website:** [Website](https://siheng-chen.github.io/dataset/dair-v2x-c-complemented/)
 
 # Running Guidance
-**Download:** [Baidu Drive](https://pan.baidu.com/s/150mBuWmBMKx8hZJDwXpfxA?pwd=nqcx)
+**Download:** [Baidu Drive](https://pan.baidu.com/s/16JvC7aVTuobUUL99l6NmQA?pwd=5j6c)
 Down load the logs folder with your checkpoint and run inference with
 ```
 python opencood/tools/inference.py --model_dir $CKPT_PATH
